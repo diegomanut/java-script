@@ -1,3 +1,6 @@
+function cacular() {
+
+
 let valor1 = 8;
 let valor2 = 5;
 let valor3 = 10;
@@ -16,6 +19,6 @@ let  b = a % 5;
 let c = 5 * b ** 2;
 let d = 10 -a /2;
 let e = 6 * 2 /d;
-let f =  b % e + 4 / e;
+let f =  b % e + 4 / e;}
 
 // encontrar numeros impares se oreto da divisao de um numero for igual a 0 ele é par, igual  a 
